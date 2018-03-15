@@ -1,0 +1,1 @@
+export default `<div class="header"><h3>Products list</h3></div>`
